@@ -1,5 +1,5 @@
 # Netty4Android
-基于Netty的Android长连接实现
+基于Netty的Android长连接实现  
 PS：由于协议的实现是基于具体业务的，因此本项目的协议实现只作为参考，实际使用的时候需要修改MessageEncryptEncoder和MessageEncryptDecoder，同时需要修改网关的配置NetworkConfig
 
 ### 1. 协议的确定
